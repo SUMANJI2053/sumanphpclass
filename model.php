@@ -2,7 +2,7 @@
 model:
 $length = (int)readline('Input Length : ');
 $width = (int)readline('Input Width : ');
-if ($length <=0 || $width <= 0)
+if ($length <=0 | $width <= 0)
 {
     goto model;
 }
