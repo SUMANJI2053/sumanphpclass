@@ -14,6 +14,6 @@ if ($switch == true){
     echo 'Lamp Plugged';
 }
 else {
-    echo 'Lamp Unplugged';
+    echo 'Lamp  Unplugged';
 }
 ?>
